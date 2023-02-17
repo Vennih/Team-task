@@ -3,8 +3,8 @@ Team Task
 User Name : Jayan Keasav Vennih R N
 Title - array.prototype.splice()
 Description
-splice 
 
+the content
 
 
 User Name : Atul
