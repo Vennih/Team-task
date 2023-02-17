@@ -4,6 +4,10 @@ User Name: Jayan keasav Vennih R N
 User Name: Atul Joshi F
 User Name: Ananth 
 User Name: Bespin
-Title -
-User Name: Aakif 
-Title -
+
+
+
+
+
+
+Title: array.prototype.splice()
