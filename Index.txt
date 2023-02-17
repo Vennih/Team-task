@@ -10,14 +10,14 @@ Title - array.prototype.slice()
 Description
 
 
-User Name : Aananth
+User Name : Aananth P
 Title - array.prototype.filter()
 Description
 
 
-User Name : Bespin
+User Name : Bespin P
 Title - array.prototype.filter()
-Description
+Description: filter 
 
 
 User Name : Aakif
