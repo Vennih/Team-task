@@ -3,16 +3,22 @@ Team Task
 User Name : Jayan Keasav Vennih R N
 Title - array.prototype.splice()
 Description
-splice 
+
+the content
+
 
 User Name : Atul
 Title - array.prototype.slice()
 Description
 
 
+
+
 User Name : Aananth P
 Title - array.prototype.filter()
 Description selected
+
+
 
 
 User Name : Bespin P
@@ -22,7 +28,11 @@ jdjiiiinkkxnixixinxknxiixinixkkkkkxojxhxxniiixxojxiisxooxjihuhhcdugygfvuuffhugvh
 vnnivvniroivovvvrovovflfvolvfolfvlv,;c,plcfp,
 nfjirvfkofvvl,l;cv,cv;v,cd;,cd;,;,lkol
 
+
+
 User Name : Aakif
 Title - array.prototype.filter()
 Description
+
+
 
