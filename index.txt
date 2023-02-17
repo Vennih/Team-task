@@ -5,9 +5,13 @@ Title - array.prototype.splice()
 Description
 splice 
 
+
+
 User Name : Atul
 Title - array.prototype.slice()
 Description
+
+
 
 
 User Name : Aananth P
@@ -15,12 +19,18 @@ Title - array.prototype.filter()
 Description selected
 
 
+
+
 User Name : Bespin P
 Title - array.prototype.filter()
 Description: filter selected selected overloaded
 
 
+
+
 User Name : Aakif
 Title - array.prototype.filter()
 Description
+
+
 
