@@ -1,12 +1,13 @@
 Team Task
 
-User Name: Jayan keasav Vennih R N 
-Title - Array filter
+User Name: Jayan keasav Vennih R N
 User Name: Atul Joshi F
-Title - 
 User Name: Ananth 
-Title -
 User Name: Bespin
-Title -
-User Name: Aakif 
-Title -
+
+
+
+
+
+
+Title: array.prototype.splice()
