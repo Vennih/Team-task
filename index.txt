@@ -1,11 +1,12 @@
 Team Task
+
 User Name : Jayan Keasav Vennih R N
-Title - array.prototype.filter()
+Title - array.prototype.splice()
 Description
 
 
 User Name : Atul
-Title - array.prototype.filter()
+Title - array.prototype.slice()
 Description
 
 
