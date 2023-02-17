@@ -1,13 +1,26 @@
 Team Task
 
 User Name: Jayan keasav Vennih R N
+Title - array.prototype.filter()
+Descrition: 
+
+
 User Name: Atul Joshi F
-User Name: Ananth 
+Title -  array.prototype.splice()
+Descrition: 
+
+
+User Name: Ananth
+Title -  array.prototype.splice() 
+Descrition: 
+
+
 User Name: Bespin
+Title -  array.prototype.splice()
+Descrition: 
 
 
+User Name: Aakif
+Title -  array.prototype.splice()
+Descrition:
 
-
-
-
-Title: array.prototype.splice()
