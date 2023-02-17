@@ -2,8 +2,8 @@ Team Task
 
 User Name : Jayan Keasav Vennih R N
 Title - array.prototype.splice()
-Description
-
+Description 
+splice is used to copy the array
 
 User Name : Atul
 Title - array.prototype.slice()
