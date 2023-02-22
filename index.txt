@@ -9,31 +9,6 @@ the content
 
 User Name : Atul
 Title - array.prototype.slice()
-Description
-
-
-
-
-User Name : Aananth P
-Title - array.prototype.filter()
-Description selected wfhgefuhavpojvkwjdfbawvoluev.kwjhfawd/.ifgwvcwbc.
-
-
-
-
-User Name : Bespin P
-Title - array.prototype.filter()
-Description:
-
-
-
-User Name : Aakif
-Title - array.prototype.filter()
-Description
-
-
-Name: Atul Joshi F 
-
 1.String.prototype.slice()
 
 It helps extracts a piece from a string with the help of the index number.
@@ -61,3 +36,21 @@ maps the elements of the input array to the new array with the operation specifi
 5.Array.prototype.filter()
 
 Takes an input array and filters its elements with a test provided as a function which is used as a filter and and output array is returned with the filtered elements.
+
+
+User Name : Aananth P
+Title - array.prototype.filter()
+Description selected wfhgefuhavpojvkwjdfbawvoluev.kwjhfawd/.ifgwvcwbc.
+
+
+
+
+User Name : Bespin P
+Title - array.prototype.filter()
+Description:
+
+
+
+User Name : Aakif
+Title - array.prototype.filter()
+Description
