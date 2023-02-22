@@ -54,6 +54,3 @@ Description:
 User Name : Aakif
 Title - array.prototype.filter()
 Description
-
-
-Edited
