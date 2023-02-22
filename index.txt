@@ -32,4 +32,32 @@ Title - array.prototype.filter()
 Description
 
 
+Name: Atul Joshi F 
 
+1.String.prototype.slice()
+
+It helps extracts a piece from a string with the help of the index number.
+
+2.Array.prototype.splice()
+
+(start, deleteCoundt, itemsToBeInserted...)
+
+The functions takes the array. 
+Then goes to the start index specified.
+Delete the specified deleteCoundt number of items.
+Inserts the intems to be inserted.
+If only start index is specified, deletes all elements from the start index.
+
+3.Array.prototype.reduce()
+
+Takes an array, reduce it into simplest form or value by the functionality provided using a function with arguments such as accumulator, currentValue and initial value 
+
+4.Array.prototype.map()
+
+Takes an array.
+Creates a new array.
+maps the elements of the input array to the new array with the operation specified as a function in the argument.
+
+5.Array.prototype.filter()
+
+Takes an input array and filters its elements with a test provided as a function which is used as a filter and and output array is returned with the filtered elements.
